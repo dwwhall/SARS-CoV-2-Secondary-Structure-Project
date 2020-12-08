@@ -18,7 +18,4 @@ perl relplot.pl example_ss.ps example_dp.ps > example_rss.ps
 
 
 
-
-
-
 For more information on ss.ps and dp.ps files please view ViennaRNA documentation (https://www.tbi.univie.ac.at/RNA/tutorial/).
